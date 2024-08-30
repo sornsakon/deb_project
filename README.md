@@ -21,3 +21,6 @@ build-backend = "poetry.core.masonry.api"
 ```
 5. Run ```poetry install```
 6. Run ```poetry run python main.py```
+
+
+![image](https://github.com/user-attachments/assets/8ad1f614-658c-4b79-bec3-b47116c34e88)
